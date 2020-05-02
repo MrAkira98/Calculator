@@ -1,5 +1,35 @@
 import java.util.Scanner;
 
+
+//VSC Git Pull - принять все изменения с GitHub
+//VSC Git add - добавить под управления Git
+//VSC commit - пишем комент к программе
+//VSC Git Push - отправить на GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 class Calculator {
     // Объявили метод mein() не возврощает данные
     public static void main(String[] args) {
